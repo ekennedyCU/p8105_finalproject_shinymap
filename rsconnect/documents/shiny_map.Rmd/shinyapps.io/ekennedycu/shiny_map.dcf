@@ -5,7 +5,7 @@ account: ekennedycu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 16195525
-bundleId: 11264127
+bundleId: 11265446
 url: https://ekennedycu.shinyapps.io/shiny_map/
 version: 1
 asMultiple: FALSE
