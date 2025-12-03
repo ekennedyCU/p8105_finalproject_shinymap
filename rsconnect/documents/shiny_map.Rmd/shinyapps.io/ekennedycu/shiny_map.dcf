@@ -1,0 +1,12 @@
+name: shiny_map
+title: shiny_map
+username: ekennedycu
+account: ekennedycu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16195525
+bundleId: 11264127
+url: https://ekennedycu.shinyapps.io/shiny_map/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
